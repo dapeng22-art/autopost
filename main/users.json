@@ -1,13 +1,8 @@
 [
     {
-        "name": "姓名1",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
-    },{
-        "name": "姓名2",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        "name": "吴汶龙",
+        "stucode": "3020192023",
+        "password": "wwl200110099015",
+        "schoolcode": "xznu"
     }
 ]
